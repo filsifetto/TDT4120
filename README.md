@@ -1,10 +1,10 @@
 # TDT4120 - Algorithms and Data Structures Playground
 
-A personal playground repository for learning and practicing algorithms and data structures, with a focus on solving problems from [CSES Problem Set](https://cses.fi/problemset/).
+Welcome! This repository is where I'm documenting my journey learning algorithms and data structures, primarily through solving problems from the [CSES Problem Set](https://cses.fi/problemset/). Feel free to follow along and see how I approach different problems - hopefully it'll be helpful if you're on a similar learning path!
 
 ## About
 
-This repository serves as a collection of solutions and implementations for algorithmic problems, primarily from the CSES Problem Set. It's designed to help build a strong foundation in algorithms and data structures through hands-on practice.
+I'm working my way through the CSES Problem Set to build a solid foundation in algorithms and data structures. This repo contains my solutions, notes, and implementations as I learn. You'll see my thought process, different approaches I try, and how my understanding evolves over time. It's all here in the open, so you can learn alongside me or use it as a reference for your own practice.
 
 ## CSES Problem Set
 
@@ -45,14 +45,14 @@ TDT4120/
 
 Each problem solution follows the naming convention: `problem_name.cpp` (or `.py`, `.java`, etc.), with optional problem number prefix for easy reference.
 
-## Usage
+## What's This For?
 
-This repository is primarily for personal learning and practice. Feel free to:
+This repository is a few things:
 
-- Add your own solutions to CSES problems
-- Experiment with different algorithmic approaches
-- Use it as a reference for algorithm implementations
-- Track your progress through the CSES Problem Set
+- **My Learning Log**: A place where I document how I solve problems and what I learn along the way
+- **Learning Together**: If you're also learning algorithms, maybe you'll find some useful insights or approaches here
+- **Reference**: A personal collection of implementations and techniques I can come back to
+- **Progress Tracker**: A way to see how I'm progressing through different algorithmic topics
 
 ## License
 
@@ -63,9 +63,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [CSES Problem Set](https://cses.fi/problemset/)
 - [CSES Solutions](https://github.com/pllk/cses-solutions) - Official solution repository (for reference)
 
-## Notes
+## My Approach
 
-- Solutions are organized for learning purposes
-- Focus on understanding the algorithms rather than just solving problems
-- Try to implement solutions from scratch before looking at references
-- Document your thought process and approach for each problem
+Here's how I'm tackling this learning journey:
+
+- **Understanding First**: I try to really understand why something works, not just get the right answer
+- **Try Before Looking**: I attempt to solve problems on my own before checking reference solutions
+- **Write It Down**: I keep notes on my thought process, what worked, what didn't, and key insights
+- **Keep Improving**: As I learn more, I come back and refine my solutions and understanding
