@@ -11,7 +11,7 @@ def task():
     for i in range(n):
         val = values[i]
         for j in range(val, m + 1):
-            dp[i][j] = sum([dp[k][j - val] for k in range(i + 1)])
+            dp[i][j] = sum([dp[k][j - val] for k in range(i + 1)])%(10**0 + 7)
  
     sm = 0
     for i in range(n):
