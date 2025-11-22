@@ -6,16 +6,12 @@ def task():
     
 
     T = list(map(int, input().split()))
-    print(T)
-    print(prices)
 
     for t in T:
-        index = bisect.bisect_right(prices, t)
-        print(t, index)
+        index = bisect.bisect_right(prices, t) - 1
         if index == -1:
             print(-1)
         else:
-            print(prices[index])
-            prices = prices[:index] + prices[index + 1:]
+            print(prices.pop(index))
 
 task()
